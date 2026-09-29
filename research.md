@@ -8,7 +8,7 @@ I have a healthy amount of interest in "p-side" linguistic variation, corpus lin
 I’m also interested in language and emotion (thanks to a fascinating class taught by [Dr. Rachel Olsen](https://academics.siu.edu/humanities-social-sciences/linguistics/faculty/olsen-rachel.php) at SIU), TESOL, and second language pronunciation & identity. 
 
 ## Current projects
-- Intensifiers, Moderators, Downtoners
+- Intensifiers
     - Manuscript in progress
     - PhD Qualifying paper (2025), NWAV talk (2025), isLE poster (2025)
 - Degree fronting
