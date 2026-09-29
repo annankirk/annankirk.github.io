@@ -38,7 +38,7 @@ timezone:  # Timezone for blog posts and alike
 collections:
   posts:
     title: Home # Needed for Siteleaf
-    output: true
+    output: false
     description: "Current PhD Student at Michigan State University. Learn more [about me](about), [about my research](research) and [about my teaching](teaching)." # The post list page content
 
 # 6. Jekyll collections settings
