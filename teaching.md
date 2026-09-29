@@ -3,7 +3,7 @@ title: Teaching
 ---
 ## University Teaching
 ### As instructor
-|**Language and Gender** (LIN/WS 225) | Michigan State University | Fall 2026, Spring 2026|
+|**Language and Gender** (LIN/WS 225) | Michigan State University | Fall 2026, Spring 2026|    
 |**Advanced Composition for ESL Speakers** (LING 290) | Southern Illinois University | Spring 2022|
 
 ### As teaching assistant
