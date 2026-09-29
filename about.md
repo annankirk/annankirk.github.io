@@ -10,8 +10,4 @@ I'm a 4th year PhD student at Michigan State University researching linguistics.
 I earned an MA in Linguistics from Southern Illinois University, and I earned a BA in Liberal Studies (with concentrations in Linguistics, Spanish, and Psychology) from Stephen F. Austin State University. 
 
 ### How I talk
-I grew up in a small town a couple hours south of Dallas, Texas. Vowels-wise, I'm pen-pin merged, cot-caught merged, and I have a little bit of PRICE monopthongization. I do not have double modals, but I think they're swell.
-
-This section is under construction! I will someday build a "my idiolect" section, inspired by Dr. Joey Stanley's [page](https://joeystanley.com/pages/idiolect/). 
-
-
+I grew up in a small town a couple hours south of Dallas, Texas. Vowels-wise, I'm pen-pin merged, cot-caught merged, and I have a little bit of PRICE monopthongization. Stay tuned for future updates on this section!
