@@ -1,7 +1,7 @@
 ---
 title: Teaching
 ---
-## University Teaching
+### University Teaching
 
 Role |Course | University | Semester
 --- | ---| --- | ---
@@ -11,7 +11,7 @@ TA |**Introduction to Linguistics** (LIN 401) | Michigan State University | Fall
 TA |**Language, Gender, and Power** (LING 320I) | Southern Illinois University | Spring 2023
 TA |**Language, Society, and the Mind** (LING 200) | Southern Illinois University | Fall 2022, Fall 2021  
 
-## Other Teaching
+### Other Teaching
 - **ESL Teacher** (Contract) Qkids, Summer 2026  
 - **Fellowship in English Pronunciation Instruction**, MSU ITA Program, Fall 2025 & Spring 2025  
   
