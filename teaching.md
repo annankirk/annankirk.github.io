@@ -2,8 +2,9 @@
 title: Teaching
 ---
 ## University Teaching
+
 header | header | header| header
-- | -| - | -
+--- | ---| --- | ---
 Instructor|**Language and Gender** (LIN/WS 225) | Michigan State University | Fall 2026, Spring 2026
 Instructor|**Advanced Composition for ESL Speakers** (LING 290) | Southern Illinois University | Spring 2022   
 Teaching Assistant|**Introduction to Linguistics** (LIN 401) | Michigan State University | Fall 2025, Spring 2025, Fall 2024   
