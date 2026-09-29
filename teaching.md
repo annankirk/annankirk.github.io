@@ -2,11 +2,11 @@
 title: Teaching
 ---
 ## University Teaching
-|Instructor|**Language and Gender** (LIN/WS 225) | Michigan State University | Fall 2026, Spring 2026|    
-|Instructor|**Advanced Composition for ESL Speakers** (LING 290) | Southern Illinois University | Spring 2022|
-|Teaching Assistant|**Introduction to Linguistics** (LIN 401) | Michigan State University | Fall 2025, Spring 2025, Fall 2024|
-|Teaching Assistant|**Language, Gender, and Power** (LING/WGSS 320I) | Southern Illinois University | Spring 2023|
-|Teaching Assistant|**Language, Society, and the Mind** (LING 200) | Southern Illinois University | Fall 2022, Fall 2021|
+Instructor|**Language and Gender** (LIN/WS 225) | Michigan State University | Fall 2026, Spring 2026
+Instructor|**Advanced Composition for ESL Speakers** (LING 290) | Southern Illinois University | Spring 2022   
+Teaching Assistant|**Introduction to Linguistics** (LIN 401) | Michigan State University | Fall 2025, Spring 2025, Fall 2024   
+Teaching Assistant|**Language, Gender, and Power** (LING/WGSS 320I) | Southern Illinois University | Spring 2023
+Teaching Assistant|**Language, Society, and the Mind** (LING 200) | Southern Illinois University | Fall 2022, Fall 2021  
 
 ## Other Teaching
 - **ESL Teacher** (Contract) Qkids, Summer 2026  
