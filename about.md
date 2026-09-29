@@ -13,4 +13,4 @@ I earned an MA in Linguistics from Southern Illinois University, and I earned a 
 I grew up in a small town a couple hours south of Dallas, Texas. Vowels-wise, I'm pen-pin merged, cot-caught merged, and I have a little bit of PRICE monopthongization. Stay tuned for future updates on this section!
 
 ### About this site
-Thank you to [David Darnes](https://darn.es/#work) for the lovely Garth theme, [Dr. Kathryn Schuler](https://kathrynschuler.com/) for the helpful [youtube tutorial](https://youtu.be/qZsgPgGdOzQ?si=ezgNT1wqRVrJ9NZU), and [Connor Bechler](https://connorbechler.github.io/) for helping me figure out why my markdown table wasn't working. 
+Thank you to [David Darnes](https://darn.es/#work) for the lovely Garth theme, [Dr. Kathryn Schuler](https://kathrynschuler.com/) for the helpful [youtube tutorial](https://youtu.be/qZsgPgGdOzQ?si=ezgNT1wqRVrJ9NZU), and [Connor Bechler](https://connorbechler.github.io/) for general helpful advice. 
