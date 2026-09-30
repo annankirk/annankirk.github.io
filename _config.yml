@@ -37,9 +37,9 @@ timezone:  # Timezone for blog posts and alike
 # 5. Collections
  collections:
   posts:
-    title: Annan Kirk Home # Needed for Siteleaf
+    title: Home # Needed for Siteleaf
     output: true
-    description: "[about me](about.md), about my [research](research.md), about my [teaching](teaching.md)" # The post list page content
+    description: " " # The post list page content
 
 # 6. Jekyll collections settings
 defaults:
@@ -60,7 +60,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 title: "Annan Kirk" # Site name or title
 logo: "assets/favicon-32x32.png" # Site logo
-favicon: "assets/favicon.ico" # Uncomment to add custom favicon, or leave as is to use site logo
+#favicon: "assets/favicon.ico" # Uncomment to add custom favicon, or leave as is to use site logo
 description: "Michigan State University" # Site description and default description
 url: "https://annankirk.github.io" # Site url
 baseurl: ""
