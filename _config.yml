@@ -35,11 +35,11 @@ excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone:  # Timezone for blog posts and alike
 
 # 5. Collections
-# collections:
-#  posts:
-#    title: Annan Kirk - Home # Needed for Siteleaf
-#    output: false
-#    description: "Current PhD Student at Michigan State University. Learn more [about me](about), [about my research](research) and [about my teaching](teaching)." # The post list page content
+ collections:
+  posts:
+    title: Annan Kirk - Home # Needed for Siteleaf
+    output: true
+    description: "[about me](about), about my [research](research), about my [teaching](teaching)" # The post list page content
 
 # 6. Jekyll collections settings
 defaults:
