@@ -39,7 +39,7 @@ collections:
   posts:
     title: Home # Needed for Siteleaf
     output: false
-    description: "Description" # The post list page content
+    description: "Home page for Annan Kirk - Linguist" # The post list page content
 
 # 6. Jekyll collections settings
 defaults:
