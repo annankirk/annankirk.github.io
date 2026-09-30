@@ -35,7 +35,7 @@ excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone:  # Timezone for blog posts and alike
 
 # 5. Collections
- collections:
+collections:
   posts:
     title: Home # Needed for Siteleaf
     output: false
