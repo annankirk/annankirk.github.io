@@ -9,7 +9,7 @@ I'm a 4th year PhD student at Michigan State University researching linguistics.
 
 I earned an MA in Linguistics from Southern Illinois University, and I earned a BA in Liberal Studies (with concentrations in Linguistics, Spanish, and Psychology) from Stephen F. Austin State University. 
 
-## CV
+### CV
 Please email me to request a copy of my CV: kirkann1[at]msu[dot]edu    
 Some of the info you would find on a CV is on my [teaching](teaching.md) page and my [research](research.md) page. I also keep my [LinkedIn](www.linkedin.com/in/annan-kirk) reasonably up to date.
 
