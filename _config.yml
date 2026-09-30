@@ -29,7 +29,7 @@ paginate_path: page:num # jekyll-paginate > blog page
 
 # 4. Jekyll settings
 sass:
-style: compressed # Style compression
+ style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone:  # Timezone for blog posts and alike
@@ -38,8 +38,8 @@ timezone:  # Timezone for blog posts and alike
  collections:
   posts:
     title: Home # Needed for Siteleaf
-    output: true
-    description: " " # The post list page content
+    output: false
+    description: "Description" # The post list page content
 
 # 6. Jekyll collections settings
 defaults:
