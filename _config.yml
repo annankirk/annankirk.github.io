@@ -37,9 +37,9 @@ timezone:  # Timezone for blog posts and alike
 # 5. Collections
  collections:
   posts:
-    title: Annan Kirk - Home # Needed for Siteleaf
+    title: Annan Kirk Home # Needed for Siteleaf
     output: true
-    description: "[about me](about), about my [research](research), about my [teaching](teaching)" # The post list page content
+    description: "[about me](about.md), about my [research](research.md), about my [teaching](teaching.md)" # The post list page content
 
 # 6. Jekyll collections settings
 defaults:
