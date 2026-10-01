@@ -12,7 +12,7 @@ I earned an MA in Linguistics from Southern Illinois University, and I earned a 
 ### CV
 Please email me to request a copy of my CV: kirkann1[at]msu[dot]edu    
 
-Some of the info you would find on a CV is on my [LinkedIn](www.linkedin.com/in/annan-kirk), which I try to keep reasonably up to date.
+Some of the info you would find on a CV is on my [LinkedIn](https://www.linkedin.com/in/annan-kirk/), which I try to keep reasonably up to date.
 
 ### About this site
 Thank you to [David Darnes](https://darn.es/#work) for the lovely Garth theme, [Dr. Kathryn Schuler](https://kathrynschuler.com/) for the helpful [youtube tutorial](https://youtu.be/qZsgPgGdOzQ?si=ezgNT1wqRVrJ9NZU), and [Connor Bechler](https://connorbechler.github.io/) for general helpful advice. 
