@@ -1,8 +1,6 @@
 ---
 title: Outreach
 ---
-
-## Annan Kirk
 <img width="151" height="201" alt="GPU-2024_TeamHeadshot_AnnanKirk" src="https://github.com/user-attachments/assets/83351a08-24ad-45f3-a255-cc21ec5abbde" />
 
 As a research assistant for the [MI Diaries project](https://mi-diaries.org/meet-the-team/), I'm currently leading and developing our new Participant Engagement Team: designing ways to keep our project participants feeling like part of a community and telling quality stories. The bulk of the work is curating themed weekly questions designed to elicit personal narratives and differentiated for adults, teens, and kids. 
