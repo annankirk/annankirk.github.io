@@ -20,19 +20,33 @@ I have secondary interests in sociophonetics (how the sounds of language vary an
 - Diachronic corpus-assisted discourse analysis
     - LavLang talk (2023)
 - Historical linguistics
-    - BA Thesis, Stephen F. Austin State University: Gender Evolution: a case study of Gender Development in Spanish and English 
+    - "Gender Evolution: A case study of gender development in Spanish and English." BA Thesis, Stephen F. Austin State University.
 
 ## Refereed conference presentations
-- (Forthcoming) Annan Kirk. (2026). **`kinda took it easy yet': non-polar 'yet' in Michigan English**. Project launch poster presented at New Ways of Analyzing Variation (NWAV) 54. Montréal, 22-24 October.
+- (Forthcoming) (2026). **`kinda took it easy yet': non-polar 'yet' in Michigan English**. Project launch poster presented at New Ways of Analyzing Variation (NWAV) 54. Montréal, 22-24 October.
 
-- Annan Kirk. (2025). **‘really’ is really frequent: intensifiers and change in Michigan English**. Paper presented at New Ways of Analyzing Variation (NWAV) 53. Ann Arbor, MI.
+- (2025). **‘really’ is really frequent: intensifiers and change in Michigan English**. Paper presented at New Ways of Analyzing Variation (NWAV) 53. Ann Arbor, MI.
 
-- Annan Kirk & Suzanne Evans Wagner. (2025). **Generational variation in intensifiers in Michigan English**. Poster presented at isLE8 (International Society for the Linguistics of English). Santiago de Compostela, Galicia, Spain.
+- (2025). **Generational variation in intensifiers in Michigan English**. Poster presented at isLE8 (International Society for the Linguistics of English). Santiago de Compostela, Galicia, Spain. In collaboration with Dr. Suzanne Wagner
 
-- Annan Kirk. (2023). **'HIV' and 'Homosexuality': a diachronic corpus-assisted discourse analysis.** Paper presented at Lavender Languages and Linguistics 29. Online.
+- (2023). **'HIV' and 'Homosexuality': a diachronic corpus-assisted discourse analysis.** Paper presented at Lavender Languages and Linguistics 29. Online.
 
-## Other talks and presentations
-- Annan Kirk. 2025, November 15. **Why is 'so' so weird?** Five minute talk presented at CALMS 2025: Careers, Alumni, and Linguistics at Michigan State.    
-- Annan Kirk. 2023, April 22. **Creating a Fantasy Language.** Talk and workshop presented at SalukiCon 2023. Southern Illinois University. Carbondale, IL.    
-- Annan Kirk. 2022, October 12. **Comparing Japanese and English Phonology.** Guest lecture for Japanese 101 at Southern Illinois University. Carbondale, IL.    
+## Presentations and talks
+- 2025, November 15. **Why is 'so' so weird?** Five minute talk presented at CALMS 2025: Careers, Alumni, and Linguistics at Michigan State.    
+- 2023, April 22. **Creating a Fantasy Language.** Talk and workshop presented at SalukiCon 2023. Southern Illinois University. Carbondale, IL.    
+- 2022, October 12. **Comparing Japanese and English Phonology.** Guest lecture for Japanese 101 at Southern Illinois University. Carbondale, IL.    
+
+## Research lab presentations
+- 2026, October 16. **‘Kinda took it easy yet’: non-polar yet in Michigan English** (NWAV practice talk). MSU Sociolinguistics Lab.
+- 2026, April 17. **Too Cool (of) a Project: Degree Inversion and Variation**. MSU Sociolinguistics Lab.
+- 2026, March 11. **The semantics of "positive yet"** MSU Semantics Lab.
+- 2026, February 6. **Exploring "positive yet".** MSU Sociolinguistics Lab.
+- 2025, October 31. **Really is really frequent: intensifiers and change in Michigan English** (NWAV Practice Talk). MSU Sociolinguistics Lab.
+- 2025, April 18. **The use of adjectival intensifiers across apparent time in the MI Diaries corpus.** MSU Sociolinguistics Lab.
+- 2024, October 1. **Methods for analyzing the distribution of adjectival intensifiers among several generations of MI Diaries participants.** MSU Sociolinguistics Lab. In collaboration with Dr. Suzanne Wagner and Sabrina Ruiz.
+- 2023, December 1. **Methods for investigating salutations and valedictions in MI Diaries.** In collaboration with Dr. Suzanne Wagner and Emily Duggan. 
+
+
+
+
 
