@@ -14,11 +14,3 @@ As a research assistant for the [MI Diaries project](https://mi-diaries.org/meet
 ## Other community outreach
 - 2022, October 4. [World Languages Day](https://news.siu.edu/2022/10/100322-SIU-to-host-about-900-students-for-World-Languages-Day-2022.php). Southern Illinois University. Hosted local high school students for a day of special experiences focusing on world languages, cultures, and how language works. Planned, staffed, and executed a World Language Escape Room.
 - 2022-2023. Rainbow Cafe LGBTQ Center, Carbondale IL. Event planning and youth programming for local LGBTQ+ youth. Served on board of directors and grant monitoring committee.
-
-### CV
-Please email me to request a copy of my CV: kirkann1[at]msu[dot]edu    
-
-Some of the info you would find on a CV is on my [LinkedIn](https://www.linkedin.com/in/annan-kirk/), which I try to keep reasonably up to date.
-
-### About this site
-Thank you to [David Darnes](https://darn.es/#work) for the lovely Garth theme, [Dr. Kathryn Schuler](https://kathrynschuler.com/) for the helpful [youtube tutorial](https://youtu.be/qZsgPgGdOzQ?si=ezgNT1wqRVrJ9NZU), and [Connor Bechler](https://connorbechler.github.io/) for general helpful advice. 
