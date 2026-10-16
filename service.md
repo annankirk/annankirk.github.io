@@ -9,6 +9,6 @@ title: Service
 - Planning committee. Careers, Alumni and Linguistics at Michigan State (CALMS) [2023](https://msulinguists.weebly.com/calms2023.html), 2025
   
 ## Other service
-- Judge (Languages and Linguistics subject matter expert). University Undergraduate 
+- Judge (Languages and Linguistics subject matter expert). MSU University Undergraduate Research and Arts Forum (UURAF).
 - Evaluator. Mid-Michigan Symposium for Undergraduate Research Experiences [(MidSURE)](https://urca.msu.edu/mid-sure) 2025, 2026.
-- Judge. Michigan State Undergraduate Linguistics Conference [(MSULC)](https://www.qualmsmsu.com/msulc) 2025.
+- Judge. MSU Undergraduate Linguistics Conference [(MSULC)](https://www.qualmsmsu.com/msulc) 2025.
