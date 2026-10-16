@@ -1,20 +1,26 @@
 ---
 title: Research
 ---
-My primary research interest is language variation and change. I’m most interested in discourse-pragmatic variation, syntactic variation, and syntactic change. The problem that keeps me up at night is where variation lives in a minimalist model of the grammar. 
+I'm one of those super cool people who considers themselves a sociosyntactician. In my work, I use frameworks from variationist sociolinguistics and minimalism. In other words, I like to think about how language is structured, and I think it's interesting when two people have different structures for what seems the same on the surface.
 
-I have a healthy amount of interest in "p-side" linguistic variation, corpus linguistics, discourse analysis, and [queer linguistics](https://www.lsadc.org/Files/committees/RevisedTrifold-What%20is%20Queer%20and%20Trans%20Linguistics.pdf). 
+My primary research interest is language variation and change. I’m most interested in discourse-pragmatic variation, syntactic variation, and syntactic change. 
+
+I have secondary interests in "p-side" (sound!) linguistic variation, corpus linguistics, discourse analysis, and [queer linguistics](https://www.lsadc.org/Files/committees/RevisedTrifold-What%20is%20Queer%20and%20Trans%20Linguistics.pdf). 
 
 I’m also interested in language and emotion (thanks to a fascinating class taught by [Dr. Rachel Olsen](https://academics.siu.edu/humanities-social-sciences/linguistics/faculty/olsen-rachel.php) at SIU), TESOL, and second language pronunciation & identity. 
 
 ## Current projects
-- Intensifiers
-    - Manuscript in progress
+- Variationist analysis of intensifiers (e.g. _really, very, so_) in the MI Diaries corpus
+    - Manuscript in progress; working on expanding this to include moderators (e.g. _fairly_)
     - PhD Qualifying paper (2025), NWAV talk (2025), isLE poster (2025)
-- Degree fronting
+- Syntactic analysis of degree inversion (e.g. _too cool (of) a guy_)
     - PhD Qualifying paper in progress
-- `yet'
+- Descriptive & semantic account of non-polar _yet_ (e.g. "I kinda took it easy _yet_ on Saturday")
     - NWAV poster (2026)
+ 
+## Past projects
+- Diachronic corpus-assisted discourse analysis
+    - LavLang talk (2023)
 
 ## Refereed conference presentations
 - (Forthcoming) Annan Kirk. (2026). **`kinda took it easy yet': non-polar 'yet' in Michigan English**. Project launch poster presented at New Ways of Analyzing Variation (NWAV) 54. Montréal, 22-24 October.
