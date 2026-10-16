@@ -32,8 +32,7 @@ I have secondary interests in sociophonetics (how the sounds of language vary an
 - (2023). **'HIV' and 'Homosexuality': a diachronic corpus-assisted discourse analysis.** Paper presented at Lavender Languages and Linguistics 29. Online.
 
 ## Presentations and talks
-- 2025, November 15. **Why is 'so' so weird?** Five minute talk presented at CALMS 2025: Careers, Alumni, and Linguistics at Michigan State.    
-- 2023, April 22. **Creating a Fantasy Language.** Talk and workshop presented at SalukiCon 2023. Southern Illinois University. Carbondale, IL.    
+- 2025, November 15. **Why is 'so' so weird?** Five minute talk presented at CALMS 2025: Careers, Alumni, and Linguistics at Michigan State.       
 - 2022, October 12. **Comparing Japanese and English Phonology.** Guest lecture for Japanese 101 at Southern Illinois University. Carbondale, IL.    
 
 ## Research lab presentations
