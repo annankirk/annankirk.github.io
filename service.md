@@ -1,8 +1,6 @@
 ---
-title: University Service
+title: Service
 ---
-
-This page is under construction. Come back soon! 
 
 ## MSU Linguistics Student Organization
 - 2026-2027 President, Linguistics Student Organization.
