@@ -23,7 +23,7 @@ I have secondary interests in sociophonetics (how the sounds of language vary an
     - "Gender Evolution: A case study of gender development in Spanish and English." BA Thesis, Stephen F. Austin State University.
 
 ## Refereed conference presentations
-- (Forthcoming) (2026). **`kinda took it easy yet': non-polar 'yet' in Michigan English**. Project launch poster presented at New Ways of Analyzing Variation (NWAV) 54. Montréal, 22-24 October.
+- (2026). **`kinda took it easy yet': non-polar 'yet' in Michigan English**. Project launch poster presented at New Ways of Analyzing Variation (NWAV) 54. Montréal, 22-24 October.
 
 - (2025). **‘really’ is really frequent: intensifiers and change in Michigan English**. Paper presented at New Ways of Analyzing Variation (NWAV) 53. Ann Arbor, MI.
 
