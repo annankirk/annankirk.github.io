@@ -27,7 +27,7 @@ I have secondary interests in sociophonetics (how the sounds of language vary an
 
 - (2025). **‘really’ is really frequent: intensifiers and change in Michigan English**. Paper presented at New Ways of Analyzing Variation (NWAV) 53. Ann Arbor, MI.
 
-- (2025). **Generational variation in intensifiers in Michigan English**. Poster presented at isLE8 (International Society for the Linguistics of English). Santiago de Compostela, Galicia, Spain. In collaboration with Dr. Suzanne Wagner
+- (2025). **Generational variation in intensifiers in Michigan English**. Poster presented at International Society for the Linguistics of English (ISLE) 8. Santiago de Compostela, Galicia, Spain. In collaboration with Dr. Suzanne Wagner
 
 - (2023). **'HIV' and 'Homosexuality': a diachronic corpus-assisted discourse analysis.** Paper presented at Lavender Languages and Linguistics 29. Online.
 
