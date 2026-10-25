@@ -13,7 +13,7 @@ I have secondary interests in sociophonetics (how the sounds of language vary an
     - PhD Qualifying paper (2025), NWAV talk (2025), isLE poster (2025)
 - Syntactic analysis of degree inversion (e.g. _too cool (of) a guy_)
     - PhD Qualifying paper in progress
-- Descriptive & semantic account of non-polar _yet_ (e.g. "I kinda took it easy _yet_ on Saturday")
+- Descriptive & semantic account of non-polar _yet_ (e.g. It's raining outside _yet_)
     - NWAV poster (2026)
  
 ## Past projects
