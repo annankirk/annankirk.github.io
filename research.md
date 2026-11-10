@@ -20,16 +20,16 @@ I have secondary interests in sociophonetics (how the sounds of language vary an
 - Diachronic corpus-assisted discourse analysis
     - LavLang talk (2023)
 - Historical linguistics
-    - "Gender Evolution: A case study of gender development in Spanish and English." BA Thesis, Stephen F. Austin State University. Advisor: Dr. Jessie Peterson
+    - _Gender Evolution: A case study of gender development in Spanish and English._ BA Thesis, Stephen F. Austin State University. Advisor: Dr. Jessie Peterson
 
 ## Refereed conference presentations
-- (2026). **`kinda took it easy yet': non-polar 'yet' in Michigan English**. Project launch poster presented at New Ways of Analyzing Variation (NWAV) 54. Montréal, QC, CA. 
+- (2026). **`kinda took it easy yet': Non-polar 'yet' in Michigan English**. Project launch poster presented at New Ways of Analyzing Variation (NWAV) 54. Montréal, QC, CA. 
   
-- (2025). **‘really’ is really frequent: intensifiers and change in Michigan English**. Paper presented at New Ways of Analyzing Variation (NWAV) 53. Ann Arbor, MI.
+- (2025). **‘really’ is really frequent: Intensifiers and change in Michigan English**. Paper presented at New Ways of Analyzing Variation (NWAV) 53. Ann Arbor, MI.
 
 - (2025). **Generational variation in intensifiers in Michigan English**. Poster presented at International Society for the Linguistics of English (ISLE) 8. Santiago de Compostela, Galicia, Spain. In collaboration with Dr. Suzanne Wagner
 
-- (2023). **'HIV' and 'Homosexuality': a diachronic corpus-assisted discourse analysis.** Paper presented at Lavender Languages and Linguistics 29. Online.
+- (2023). **'HIV' and 'Homosexuality': A diachronic corpus-assisted discourse analysis.** Paper presented at Lavender Languages and Linguistics 29. Online.
 
 ## Presentations and talks
 - (Forthcoming) 2026, November 21. **Too important (of) an adjective: Degree inversion in English.** Paper presented at GLEAMS 2026: Graduate Linguistics Expo at Michigan State.
@@ -37,11 +37,12 @@ I have secondary interests in sociophonetics (how the sounds of language vary an
 - 2022, October 12. **Comparing Japanese and English Phonology.** Guest lecture for Japanese 101 at Southern Illinois University. Carbondale, IL.    
 
 ## Research lab presentations
-- 2026, October 16. **‘Kinda took it easy yet’: non-polar yet in Michigan English** (NWAV practice talk). MSU Sociolinguistics Lab.
-- 2026, April 17. **Too Cool (of) a Project: Degree Inversion and Variation**. MSU Sociolinguistics Lab.
+- 2026, November 10. **‘Kinda took it easy yet’: Non-polar yet in Michigan English**. Lightning talk presented at MI Diaries team meeting as part of an NWAV debrief. 
+- 2026, October 16. **‘Kinda took it easy yet’: Non-polar yet in Michigan English** (NWAV practice talk). MSU Sociolinguistics Lab.
+- 2026, April 17. **Too cool (of) a project: Degree inversion and variation**. MSU Sociolinguistics Lab.
 - 2026, March 11. **The semantics of "positive yet"** MSU Semantics Lab.
 - 2026, February 6. **Exploring "positive yet".** MSU Sociolinguistics Lab.
-- 2025, October 31. **Really is really frequent: intensifiers and change in Michigan English** (NWAV Practice Talk). MSU Sociolinguistics Lab.
+- 2025, October 31. **`really' is really frequent: Intensifiers and change in Michigan English** (NWAV Practice Talk). MSU Sociolinguistics Lab.
 - 2025, April 18. **The use of adjectival intensifiers across apparent time in the MI Diaries corpus.** MSU Sociolinguistics Lab.
 - 2024, October 1. **Methods for analyzing the distribution of adjectival intensifiers among several generations of MI Diaries participants.** MSU Sociolinguistics Lab. In collaboration with Dr. Suzanne Wagner and Sabrina Ruiz.
 - 2023, December 1. **Methods for investigating salutations and valedictions in MI Diaries.** In collaboration with Dr. Suzanne Wagner and Emily Duggan. 
