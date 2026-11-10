@@ -11,7 +11,7 @@ title: Teaching
 - LING 200: Language, Society, and the Mind (Southern Illinois University) 
 
 ### Other Teaching
-- **ESL Teacher** (Qkids)
-- **Fellowship in English Pronunciation Instruction** (Michigan State University) 
+- ESL Teacher, Qkids
+- Fellow, Pronunciation Instruction, Michigan State University - English Language Center
   
 
