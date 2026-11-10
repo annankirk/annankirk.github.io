@@ -29,7 +29,7 @@ I have secondary interests in sociophonetics (how the sounds of language vary an
 
 - (2025). **Generational variation in intensifiers in Michigan English**. Poster presented at International Society for the Linguistics of English (ISLE) 8. Santiago de Compostela, Galicia, Spain. In collaboration with Dr. Suzanne Wagner
 
-- (2023). **'HIV' and 'Homosexuality': A diachronic corpus-assisted discourse analysis.** Paper presented at Lavender Languages and Linguistics 29. Online.
+- (2023). **'HIV' and 'Homosexuality': A diachronic corpus-assisted discourse analysis.** Paper presented at Lavender Languages and Linguistics 29. (Online). Boise State University, Boise, ID.
 
 ## Presentations and talks
 - (Forthcoming) 2026, November 21. **Too important (of) an adjective: Degree inversion in English.** Paper presented at GLEAMS 2026: Graduate Linguistics Expo at Michigan State.
