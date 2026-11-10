@@ -12,6 +12,6 @@ title: Teaching
 
 ### Other Teaching
 - ESL Teacher, Qkids. Taught English lessons to children aged 4-10 through the Qkids platform.
-- Pronunciation Consultant, MSU English Language Center. Met with international students 1-on-1 to work on English pronunciation goals with an emphasis on comprehensibility.
+- Pronunciation Consultant, MSU English Language Center. Met with international students 1-on-1 to work on English pronunciation with an emphasis on comprehensibility.
   
 
