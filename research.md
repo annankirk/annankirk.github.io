@@ -32,6 +32,7 @@ I have secondary interests in sociophonetics (how the sounds of language vary an
 - (2023). **'HIV' and 'Homosexuality': a diachronic corpus-assisted discourse analysis.** Paper presented at Lavender Languages and Linguistics 29. Online.
 
 ## Presentations and talks
+- (Forthcoming) 2026, November 21. **Too important (of) an adjective: Degree inversion in English.** Paper presented at GLEAMS 2026: Graduate Linguistics Expo at Michigan State.
 - 2025, November 15. **Why is 'so' so weird?** Five minute talk presented at CALMS 2025: Careers, Alumni, and Linguistics at Michigan State.       
 - 2022, October 12. **Comparing Japanese and English Phonology.** Guest lecture for Japanese 101 at Southern Illinois University. Carbondale, IL.    
 
